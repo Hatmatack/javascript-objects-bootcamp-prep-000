@@ -1,7 +1,7 @@
 var playlist = {
   VanHalen: "Jump", 
   PinkFloyd: "The Wall",
-  Weezer: "Feels Like Summer"
+  Weezer: "Feels Like Summer",
   Kanye: "Gold Digger"
 };
 
